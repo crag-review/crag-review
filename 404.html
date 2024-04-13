@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		
+		<link rel="modulepreload" href="/_app/immutable/entry/start.NAcsM6tG.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/scheduler.kxxSm4ns.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/singletons.9CSVrlY3.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/control.pJ1mnnAb.js">
+		<link rel="modulepreload" href="/_app/immutable/entry/app.fERXtrH0.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/preload-helper.0HuHagjb.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/index.mQ04AhJc.js">
+		<!-- You can add global <meta> tags here, but anything not global or dynamic should be a `<svelte:head>` tag on the proper page(s) instead. -->
+	</head>
+	<body>
+		<div id="svelte">
+			<script>
+				{
+					__sveltekit_1yzye3h = {
+						base: "",
+						env: null
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("/_app/immutable/entry/start.NAcsM6tG.js"),
+						import("/_app/immutable/entry/app.fERXtrH0.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element);
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>

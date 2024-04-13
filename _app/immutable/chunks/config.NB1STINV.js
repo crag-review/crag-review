@@ -1,0 +1,1 @@
+const t="Crag Review",s="List of climbing crags accessable by public transport",e="crag-review.github.io",i="Benjamin Wieser",o=10,a=[{title:"Blog",route:"/blog"},{title:"About",route:"/about"}];export{i as a,e as b,s as c,a as n,o as p,t as s};

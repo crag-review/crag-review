@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Crag Review</title>
+<description>List of climbing crags accessable by public transport</description>
+<link>https://crag-review.github.io</link>
+<atom:link href="https://crag-review.github.io/api/rss.xml" rel="self" type="application/rss+xml"/>
+<item>
+<guid isPermaLink="true">https://crag-review.github.io/blog/amstetten</guid>
+<title>Sportklettern im Amstettner Raum</title>
+<link>https://crag-review.github.io/blog/amstetten</link>
+<description>Eine List mit Klettergärten rund um Amstetten</description>
+<pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://crag-review.github.io/blog/mödling</guid>
+<title>Sportklettern in Mödling und Umgebung</title>
+<link>https://crag-review.github.io/blog/mödling</link>
+<description>Eine List mit Klettergärten rund um Mödling</description>
+<pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://crag-review.github.io/blog/wachau</guid>
+<title>Sportklettern in der Wachau</title>
+<link>https://crag-review.github.io/blog/wachau</link>
+<description>Eine List mit Klettergärten in der Wachau</description>
+<pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+</item><item>
+<guid isPermaLink="true">https://crag-review.github.io/blog/waldviertel</guid>
+<title>Sportklettern im Waldviertel</title>
+<link>https://crag-review.github.io/blog/waldviertel</link>
+<description>Hier ist eine List mit Klettergärten im Waldviertel</description>
+<pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
